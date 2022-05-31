@@ -1,0 +1,112 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    height: 100vh;
+    width: 100%;
+    background-image: url("my photo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.image{
+width: 30%;
+height: 85vh;
+border: 2px solid white;
+background-image: url("my picc.jpg");
+background-position: center;
+background-size: cover;
+margin-left: 30px;
+float: left;
+margin-top: 30px;
+border-radius: 40px;
+
+}
+
+.content h1{
+    font-size: 200px;
+    color: orangered;
+    margin-left: 2300px;
+    padding-top: 700px;
+    font-family: Arial;
+}
+.content h5{
+    font-size: 200px;
+    color: #fff;
+    margin-left: 2300px;
+    margin-top: 80px;
+    font-family: Arial;
+
+}
+.content h6{
+    font-size: 90px;
+    color: #fff;
+    margin-left: 2200px;
+    margin-top: -300px;
+    font-family: Arial;
+}
+
+.nav{
+    width: 160px;
+    height: 80vh;
+    float: right;
+    margin-right: 130px;
+    margin-top: -2000px;
+    size: 200px;
+}
+
+.fa-house-chimney{
+color: #fff;
+font-size: 100px;
+margin-top: 350px;
+}
+.fa-lightbulb{
+    color: #fff;
+    font-size: 100px;
+    margin-top: 200px;
+}
+.fa-user{
+    color: #fff;
+    font-size: 100px;
+    margin-top: 120px;
+}
+.fa-toolbox{
+    color: #fff;
+    font-size: 100px;
+    margin-top: 120px;
+}
+.fa-envelope-open{
+    color: #fff;
+    font-size: 100px;
+    margin-top: 120px;
+}
+.fa-comments{
+    color: #fff;
+    font-size: 100px;
+    margin-top: 120px;
+
+}
+.nav :hover{
+    color: #ff7200;
+}
+fa-circle-arrow-right{
+    color: orangered;
+    font-size: 3000px;
+    margin-left: -200px;
+    margin-top: -100px;
+}
+.content .cn{
+    width: 800px;
+    height: 200px;
+    border: 2px solid #ff7200;
+    border-radius: 200px;
+    background: black;
+    margin-top: -3vh;
+    color: #fff;
+    font-size: 50px;
+    margin-left: 300px;
+}
+.content .orange-color{
+        color: #ff7200;
+}
